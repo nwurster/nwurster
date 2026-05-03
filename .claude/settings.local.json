@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm audit *)",
+      "PowerShell(Start-Process \"http://localhost:3000\")",
+      "mcp__playwright"
+    ]
+  }
+}
